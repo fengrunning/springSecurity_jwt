@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+#jwt配置
+vide:
+  jwt:
+    user-secret-key: 21232f297a57a5a743894a0e4a801fc3
+    user-ttl: 100000000
+    user-token-name: token
